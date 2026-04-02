@@ -3,3 +3,4 @@
 Git clone
 Git commit
 Git push
+Git pull
