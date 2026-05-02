@@ -12,8 +12,8 @@ It includes basic operations such as commits, branching, merging, and collaborat
 - Work with remote repositories (GitHub)
 
 ## 🛠️ Tools Used
-- Git
-- GitHub
+- Git.
+- GitHub.
 
 ## 📂 What I Practised
 - git init
