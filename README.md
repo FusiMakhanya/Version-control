@@ -5,11 +5,11 @@ This repository is created to practice version control using Git.
 It includes basic operations such as commits, branching, merging, and collaboration workflows.
 
 ## 🚀 Objectives
-- Learn how to initialize a Git repository
-- Practice making commits
-- Understand branching and merging
-- Resolve merge conflicts
-- Work with remote repositories (GitHub)
+- Learn how to initialize a Git repository.
+- Practice making commits.
+- Understand branching and merging.
+- Resolve merge conflicts.
+- Work with remote repositories (GitHub).
 
 ## 🛠️ Tools Used
 - Git.
