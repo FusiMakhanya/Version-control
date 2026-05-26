@@ -33,7 +33,7 @@ It includes basic operations such as commits, branching, merging, and collaborat
 3. Start experimenting with Git commands
 
 ## 📘 Notes
-This is a learning project and may contain experimental changes.
+This is a learning project and contains experimental changes.
 
 ## 👤 Author
 Fusi Makhanya
